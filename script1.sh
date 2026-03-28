@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STUDENT_NAME="Sandesh"
+STUDENT_NAME="Akshat"
 SOFTWARE="Git"
 
 echo "===== Open Source Audit ====="
